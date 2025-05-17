@@ -140,8 +140,8 @@ graph TD
 [MIT Lisansı](LICENSE).
 
 ## İletişim
-- **Developer**: İbrahim
-- **E-posta**: mammadli0088@outlook.com
+- **Developer**: Nevroz Aslan
+- **E-posta**: as.nevroz@gmail.com
 
 ## Teşekkürler
 - Türkiye’nin su kıtlığı krizini çözme ilhamıyla geliştirildi.
